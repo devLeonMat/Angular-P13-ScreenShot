@@ -1,0 +1,28 @@
+{
+  "options": [
+    {
+      "name": "New Component",
+      "value": "component"
+    },
+    {
+      "name": "Angular Material",
+      "value": "material"
+    },
+    {
+      "name": "Add PWA Support",
+      "value": "pwa"
+    },
+    {
+      "name": "Add Dependency",
+      "value": "dependency"
+    },
+    {
+      "name": "Run and Watch Tests",
+      "value": "test"
+    },
+    {
+      "name": "Build for Production",
+      "value": "build"
+    }
+  ]
+}
